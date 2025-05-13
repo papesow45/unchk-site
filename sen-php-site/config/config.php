@@ -1,6 +1,6 @@
 <?php
 // Configuration des chemins
-define('BASE_URL', 'http://localhost/sen-php-site');
+define('BASE_URL', 'http://localhost/Projet-php/sen-php-site');
 define('ROOT_PATH', dirname(__DIR__));
 define('INCLUDES_PATH', ROOT_PATH . '/includes');
 define('PAGES_PATH', ROOT_PATH . '/views');
