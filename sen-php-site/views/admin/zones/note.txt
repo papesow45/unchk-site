@@ -1,0 +1,3 @@
+Plus de mélange de responsabilités : 
+votre couche présentation (page.php), votre couche API (page-process.php) et 
+votre logique métier (ZoneController) sont clairement séparées.

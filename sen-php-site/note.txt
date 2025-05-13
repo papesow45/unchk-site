@@ -1,0 +1,7 @@
+# Identifiants pour admin
+email: admin@admin.com
+mot de passe: password
+
+# Identifiants pour etudiant
+email: test@example.com
+password: password
